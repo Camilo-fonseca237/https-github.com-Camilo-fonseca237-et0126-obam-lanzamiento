@@ -27,7 +27,6 @@ Funciones implementadas:
 ├── ficha_tienda.md            Ficha simulada para Google Play y política de privacidad propuesta
 └── entrega/
     ├── app.apk                APK instalable para Android (49.6 MB, universal)
-    ├── presentacion.pdf       Presentación de lanzamiento (7 diapositivas)
     └── capturas/              Ícono de la app y capturas reales de las pantallas
 ```
 
@@ -143,4 +142,4 @@ flutter build appbundle --release
 
 ## Declaración de uso de IA
 
-Para el desarrollo del curso y la preparación de este taller final utilicé asistentes de IA (Claude y Gemini / Antigravity) como apoyo para estructurar el proyecto Flutter, integrar Firebase Authentication (Web y Android), depurar la compilación de la APK con Gradle y redactar/organizar la documentación (`README.md`, `ficha_tienda.md`) y la presentación. Probé los flujos, revisé cada archivo y comprendo el funcionamiento completo del código y la configuración para explicarlo y modificarlo durante la exposición.
+Para el desarrollo del curso y la preparación de este taller final utilicé asistentes de IA (Claude y Gemini / Antigravity) como apoyo para estructurar el proyecto Flutter, integrar Firebase Authentication (Web y Android), depurar la compilación de la APK con Gradle y redactar/organizar la documentación (`README.md` y `ficha_tienda.md`). Probé los flujos, revisé cada archivo y comprendo el funcionamiento completo del código y la configuración para explicarlo y modificarlo durante la exposición.
